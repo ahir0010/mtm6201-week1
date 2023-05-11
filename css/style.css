@@ -1,0 +1,27 @@
+.img{
+        max-width: 150px;
+        width: auto;
+        max-height: 150px;
+        height: auto;
+        float: left;
+        margin-right: 10px;   
+}
+.main{
+width: 100%;
+}
+.paragraph{
+    text-align: justify;
+}
+.body{
+    background-color: turquoise;
+}
+.name{
+    background-color: lightpink;
+}
+.description{
+    background-color: lightpink;
+}
+.terms{
+    font-weight: bold;
+    font-size: 1.15rem;
+}
